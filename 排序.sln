@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "插入排序", "插入排序\插入排序.vcxproj", "{1857F32B-BBA4-4A9A-A912-57F1DA27CF57}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "归并排序", "归并排序\归并排序.vcxproj", "{75E08AD5-64E8-48A0-872F-7DC0E6D95010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1857F32B-BBA4-4A9A-A912-57F1DA27CF57}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1857F32B-BBA4-4A9A-A912-57F1DA27CF57}.Debug|Win32.Build.0 = Debug|Win32
+		{1857F32B-BBA4-4A9A-A912-57F1DA27CF57}.Release|Win32.ActiveCfg = Release|Win32
+		{1857F32B-BBA4-4A9A-A912-57F1DA27CF57}.Release|Win32.Build.0 = Release|Win32
+		{75E08AD5-64E8-48A0-872F-7DC0E6D95010}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75E08AD5-64E8-48A0-872F-7DC0E6D95010}.Debug|Win32.Build.0 = Debug|Win32
+		{75E08AD5-64E8-48A0-872F-7DC0E6D95010}.Release|Win32.ActiveCfg = Release|Win32
+		{75E08AD5-64E8-48A0-872F-7DC0E6D95010}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
